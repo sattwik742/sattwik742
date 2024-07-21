@@ -66,9 +66,5 @@ Hello! I'm [Sattwik Sinha Mahapatra], a passionate developer with a keen interes
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter&logoColor=1DA1F2)](https://twitter.com/yourprofile)
 [![Personal Website](https://img.shields.io/badge/-Website-000?&logo=google-chrome&logoColor=4285F4)](https://yourwebsite.com)
-
 ---
-
-Feel free to customize this template further to better fit your personality and professional background. Adding images, badges, and links will make your profile more visually appealing and informative.
