@@ -1,4 +1,3 @@
-Sure! Here's a template for a beautiful `README.md` file for your GitHub profile:
 
 ---
 
