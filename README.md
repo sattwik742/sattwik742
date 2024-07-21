@@ -27,9 +27,6 @@ Hello! I'm [Sattwik Sinha Mahapatra], a passionate developer with a keen interes
 
 ### Frameworks and Libraries
 
-<div style="background-color: lightblue; padding: 10px;">
-This text has a light blue background.
-</div>
 
 ### Tools and Platforms
 
