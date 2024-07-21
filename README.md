@@ -24,7 +24,6 @@ Hello! I'm [Sattwik Sinha Mahapatra], a passionate developer with a keen interes
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![Your Favorite Language](https://img.shields.io/badge/-Your%20Favorite%20Language-000?&logo=YourFavoriteLanguage)
 
 ### Frameworks and Libraries
 
