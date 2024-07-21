@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello! I'm [Your Name], a passionate developer with a keen interest in [Your Interests]. I love building innovative solutions and continuously learning new technologies to enhance my skill set.
+Hello! I'm [Sattwik Sinha Mahapatra], a passionate developer with a keen interest in [Linux, Web Development and UI developer]. I love building innovative solutions and continuously learning new technologies to enhance my skill set.
 
 - 🌱 I’m currently learning [Current Learning Focus]
 - 👯 I’m looking to collaborate on [Project/Type of Projects]
@@ -28,11 +28,7 @@ Hello! I'm [Your Name], a passionate developer with a keen interest in [Your Int
 
 ### Frameworks and Libraries
 
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![Your Favorite Framework](https://img.shields.io/badge/-Your%20Favorite%20Framework-000?&logo=YourFavoriteFramework)
+
 
 ### Tools and Platforms
 
@@ -40,7 +36,6 @@ Hello! I'm [Your Name], a passionate developer with a keen interest in [Your Int
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
-![Your Favorite Tool](https://img.shields.io/badge/-Your%20Favorite%20Tool-000?&logo=YourFavoriteTool)
 
 ## Projects
 
