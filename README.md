@@ -9,7 +9,7 @@
 
 Hello! I'm [Sattwik Sinha Mahapatra], a passionate developer with a keen interest in [Linux, Web Development and UI developer]. I love building innovative solutions and continuously learning new technologies to enhance my skill set.
 
-- 🌱 I’m currently learning [Current Learning Focus]
+- 🌱 Begineer level web developer, linux user.
 - 👯 I’m looking to collaborate on [Project/Type of Projects]
 - 🤔 I’m looking for help with [Area where you need help]
 - 💬 Ask me about [Topics you are good at]
