@@ -61,7 +61,7 @@ Hello! I'm [Sattwik Sinha Mahapatra], a passionate developer with a keen interes
 
 ## GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyo-night)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=onedark)
 
 ## Connect with Me
 
