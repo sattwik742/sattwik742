@@ -37,31 +37,10 @@ Hello! I'm [Sattwik Sinha Mahapatra], a passionate developer with a keen interes
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 
-## Projects
-
-### Project 1: [Project Name]
-
-![Project Banner](https://via.placeholder.com/800x200)
-
-[Project Description]
-
-- **Technologies:** [Tech Stack]
-- **Live Demo:** [Link to Live Demo]
-- **Source Code:** [Link to Repository]
-
-### Project 2: [Project Name]
-
-![Project Banner](https://via.placeholder.com/800x200)
-
-[Project Description]
-
-- **Technologies:** [Tech Stack]
-- **Live Demo:** [Link to Live Demo]
-- **Source Code:** [Link to Repository]
 
 ## GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sattwik742&show_icons=true&theme=onedark&border=hideborder)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sattwik742&show_icons=true&theme=onedark)
 
 ## Connect with Me
 
