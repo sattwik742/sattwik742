@@ -1,7 +1,7 @@
 
 ---
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm **Sattwik**. 👋
 
 ![Profile Banner](https://via.placeholder.com/1200x400)
 
