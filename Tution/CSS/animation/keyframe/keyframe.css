@@ -1,0 +1,66 @@
+body
+{
+    background-color: teal;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container
+{
+    width: 300px;
+    height: 300px;
+    border: 2px solid white;
+    border-radius: 50%;
+    animation-name: rotation;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: linear;
+}
+.box
+{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    /* transition: 1s ease; */
+    animation-name: rotation;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: normal;
+    border-radius: 50%;
+}
+
+/* .box:hover
+{
+    transform: translate(200px);
+} */
+
+@keyframes movement
+{
+    0%{
+        transform: translate(0,0);
+    }
+    25%{
+        transform: translate(200px,0);
+    }
+    50%{
+        transform: translate(200px,200px);
+    }
+    75%{
+        transform: translate(0,200px);
+    }
+}
+
+@keyframes rotation
+{
+    0%{
+        transform: rotate(0);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

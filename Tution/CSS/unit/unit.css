@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-size: 2em;
+}
+main
+{
+    border: 5px  dashed brown;
+    /* 
+    here while specifying the border size we are giving absolute unit as length unit 
+    */
+
+    width: 25%;
+    /*
+    by providing the width as 50%, it says that the main element's width will be 50%tage of its parent. here parent is body.
+    */
+
+    /*
+    width: 25vw; 
+    the full form of vw is viewport width. 
+    It works similar to the % unit. It is relative with respect to total viewport width.
+    for eg- specifying 10vw is equivalent to occupying 10% of entire visible screen width.*/
+}
+
+section
+{
+    border: 5px dotted green;
+    width: 100vw;
+    height: 50vh;
+}
+header
+{
+    /* font-size: 24px; absolute unit */
+
+    font-size: 2em;/* em is a relative unit of measurement. 
+    em is relative to the font size of the parent element or 
+    the font size of the nearest parent with a defined font size
+    for eg - if we have a p element and if we set the font size to 2em then it means 
+    it is 2times the fontsize of the parent element. So if the parent is body and we have 
+    defined the font size 20px under the body then the font size of the paragraph will be
+    2*20px = 40px */
+
+    /*
+        uses of em-
+        1)em is good for scalable and responsive design
+        2)it is recommended to use em for setting the margin and padding. When we use em 
+        for margin and padding they adjust according to the font size of the parent element.
+    */
+}
+h1
+{
+    /* font-size: 2em; */
+    font-size: 2rem;
+    /* The rem unit in css stands for root em. it is a relative unit of measurement that is relative to the font 
+    size of the root element. In html root element is html itself. 1rem = the font size of the root element, the 
+    root element defaults to 16px so 1rem=16px. */
+    /* 
+        Application of rem - 
+        1)By using rem we can easily scale the font size of the body element, propotionally to the html font size.
+        2)Its a good idea to use rem to set the font size bcoz it is designed to adapt to the user's browser preferences.
+        3)Using rem or em for padding or margin also offers advantage in terms of providing scalable and maintainable design.
+     */
+}

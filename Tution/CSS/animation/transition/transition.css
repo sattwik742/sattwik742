@@ -1,0 +1,18 @@
+.box
+{
+    width: 200px;
+    height: 200px;
+    margin: 100px auto;
+    background-color: teal;
+    /* transition: 1s; */
+    transition-delay: 0.2s;
+    transition-duration: 1s;
+    transition-property: background-color,border-radius;
+    transition-timing-function: ease;
+}
+
+.box:hover
+{
+    background-color: purple;
+    border-radius: 50%;
+}

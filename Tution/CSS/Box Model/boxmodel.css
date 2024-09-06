@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*By default box sizing will be based on content box as a 
+    result the actual width and height may increase or decrease so we are going to define the
+    box sizing with rspect to the border of an element so that the box sizing can be based 
+    on border box*/
+}
+
+/* .box
+{
+    border: 10px solid red;
+    /padding: 40px 10px 40px 10px;/ padding will be applied clockwise - top,right,bottom,left*/
+    
+    /*padding: 40px 30px;/*Whenever we are providing two values for padding property
+    then the first value will be applied to top and bottom and the lastvalue will be applied
+    to left and right.*/
+
+    /*padding: 40px 20px 30px;/*first value for top, 
+    middle value for left and right, third for bottom.*/
+
+    /* padding: 30px;
+    width: 200px;
+    height: 200px;
+    margin: 30px; 
+} */
+
+.box
+{
+    border: 10px solid red;
+    /* padding: 40px 10px 40px 10px; */
+    /* padding: 40px 20px 30px; */
+    padding: 40px 20px;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+}

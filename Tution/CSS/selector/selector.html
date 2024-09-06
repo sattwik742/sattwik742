@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS selector</title>
+    <link rel="stylesheet" href="selector.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Selectors in HTML</h1>
+    </header>
+    <main>
+      <article id="first">
+        <h2>Element Selector</h2>
+        <p>
+          Lorem ipsum dolor sit, amet
+          <span class="highlight">consectetur</span> adipisicing elit. Voluptas,
+          eos.
+        </p>
+      </article>
+      <article id="second" class="purple">
+        <h2>ID Selector</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. At, aliquam.
+        </p>
+      </article>
+      <article id="third" class="purple highlight">
+        <!-- Here we are applying multiple class in one element, which is not possible in case of ID i.e,for one element we will have one ID -->
+        <h2>Class Selector</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, numquam.
+        </p>
+      </article>
+    </main>
+    <footer>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, corporis.</p>
+        <a href="#">click here</a>
+        <h3>Adjacent Sibling</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis, quae?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, eum!</p>
+        <input type="text" name="text" id="text">
+        <ul>
+            <li>Home</li>
+            <li>Home</li>
+            <li>Home</li>
+            <li>Home</li>
+        </ul>
+        <input type="email" name="email" id="email">
+    </footer>
+  </body>
+</html>
