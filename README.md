@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there 👋 I'm Sattwik Sinha Mahpatra
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m interested in JAVA Fullstack Development<br>🌱 I’m currently learning JAVA
 
 
 ## 🌐 Socials:
