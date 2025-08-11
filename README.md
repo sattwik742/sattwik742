@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, welcome to my GitHub page! 👋</h1>
+<h1 align="center">Hi there, welcome to my GitHub! 👋</h1>
 
 - I'm **Sattwik Sinha Mahapatra**, a passionate software developer from India.  
 - 🌱 Currently learning **Java SE 17** and **MySQL**.  
-- 💬 Experienced with **Zsh**, **Hyprland**, terminal configurations, and Linux productivity tools — always open to discussions and sharing tips.  
+- 💬 Experienced with **Zsh**, **Hyprland**, terminal configurations, and Linux         productivity tools — always open to discussions and sharing tips.  
 - 📫 Reach me at: **sattwik211@gmail.com**  
 
 
