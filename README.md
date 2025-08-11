@@ -80,6 +80,7 @@
 | 🏆 **Certification** | 📅 **Date** | 🆔 **Credential ID** | 🔗 **Link** |
 |:---:|:---:|:---:|:---:|
 | **Google Crash Course on Python** | April 23, 2024 | CTHXMTAKAFKT | [View Certificate](https://www.coursera.org/account/accomplishments/verify/CTHXMTAKAFKT) |
+| **HackerRank SQL (Basic) Certificate** | June 24, 2024 | 36b2cd5d4dfc | [View Certificate](https://www.hackerrank.com/certificates/36b2cd5d4dfc) |
 
 </div>
 
