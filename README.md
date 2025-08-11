@@ -1,7 +1,7 @@
 # <div align="center">👋 Hey there, Welcome to my GitHub!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Software+Developer;Linux+Enthusiast+%26+Ricer;Always+Learning+%26+Exploring;Java+%26+Python+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Software+Developer;Linux+Enthusiast+%26+Ricer;Always+Learning+%26+Exploring;" alt="Typing Animation" />
 </div>
 
 <div align="center">
