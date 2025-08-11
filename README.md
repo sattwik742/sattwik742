@@ -155,21 +155,6 @@
 
 ---
 
-## 📊 **Weekly Development Breakdown**
-
-<!--START_SECTION:waka-->
-```text
-Java         8 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   45.30% 
-Python       4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   23.26% 
-Bash         2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-MySQL        1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54% 
-Lua          1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89% 
-Other        40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38%
-```
-<!--END_SECTION:waka-->
-
----
-
 ## 👀 **Profile Views & Support**
 
 <div align="center">
