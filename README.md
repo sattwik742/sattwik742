@@ -15,7 +15,7 @@
 <img align="right" alt="Coding GIF" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🇮🇳 I'm **Sattwik Sinha Mahapatra**, a passionate software developer from **India**
-- 🌱 Currently learning **Java SE 17** and **MySQL**
+- 🌱 Currently learning **Java** and **MySQL**
 - 💬 Skilled in **Zsh**, **Hyprland**, terminal configurations, and Linux productivity tools
 - 🎯 Focus: Clean code, performance optimization, and user experience
 - 📫 Reach me at: **sattwik211@gmail.com**
