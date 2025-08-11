@@ -81,6 +81,8 @@
 |:---:|:---:|:---:|:---:|
 | **Google Crash Course on Python** | April 23, 2024 | CTHXMTAKAFKT | [View Certificate](https://www.coursera.org/account/accomplishments/verify/CTHXMTAKAFKT) |
 | **HackerRank SQL (Basic) Certificate** | June 24, 2024 | 36b2cd5d4dfc | [View Certificate](https://www.hackerrank.com/certificates/36b2cd5d4dfc) |
+| **HackerRank CSS (Basic) Certificate** | December 8, 2024 | fb11cbbd3c44 | [View Certificate](https://www.hackerrank.com/certificates/fb11cbbd3c44) |
+
 
 </div>
 
