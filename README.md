@@ -139,7 +139,7 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### 🖥️ **Linux Ricing**
 ![Desktop](https://img.shields.io/badge/Desktop-Customization-FF6B6B?style=flat-square)
@@ -150,24 +150,13 @@
 - Performance optimizations
 
 </td>
-<td align="center" width="33%">
 
-### ⚙️ **Shell Scripting**
-![Automation](https://img.shields.io/badge/Shell-Automation-4ECDC4?style=flat-square)
-
-- System automation scripts
-- Workflow optimization tools
-- Custom utility development
-- Process streamlining
-
-</td>
-<td align="center" width="34%">
+<td align="center" width="50%">
 
 ### 🔧 **Terminal Tools**
 ![CLI](https://img.shields.io/badge/CLI-Development-45B7D1?style=flat-square)
 
-- Command-line applications
-- Developer productivity tools
+- Developer CLI productivity tools
 - Terminal workflow enhancement
 - Custom tool development
 
