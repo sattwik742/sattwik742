@@ -95,10 +95,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattwik742&layout=compact&hide_border=true&title_color=38B2AC&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sattwik742&theme=github-dark-blue&hide_border=true&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="Sattwik's GitHub Streak" />
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Latest Activity**
