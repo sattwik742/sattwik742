@@ -1,184 +1,242 @@
-# <div align="center">👋 Hey there, Welcome to my GitHub!</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Software+Developer;Linux+Enthusiast+%26+Ricer;Always+Learning+%26+Exploring;" alt="Typing Animation" />
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Sattwik%20Sinha%20Mahapatra&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlign=70&fontAlignY=32" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Software+Developer+%7C+Linux+Enthusiast;Building+Tomorrow's+Solutions+Today" alt="Typing Animation" />
+</div>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sattwik742&style=flat-square&color=00D9FF&labelColor=1a1a1a)](https://github.com/sattwik742)
+[![GitHub followers](https://img.shields.io/github/followers/sattwik742?label=Followers&style=flat-square&color=58A6FF&labelColor=1a1a1a)](https://github.com/sattwik742)
+[![GitHub Stars](https://img.shields.io/github/stars/sattwik742?label=Stars&style=flat-square&color=FFD700&labelColor=1a1a1a)](https://github.com/sattwik742)
+
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🇮🇳 I'm **Sattwik Sinha Mahapatra**, a passionate software developer from **India**
-- 🌱 Currently learning **Java** and **MySQL**
-- 💬 Skilled in **Zsh**, **Hyprland**, terminal configurations, and Linux productivity tools
-- 🎯 Focus: Clean code, performance optimization, and user experience
-- 📫 Reach me at: **sattwik211@gmail.com**
-- ⚡ Fun fact: I love customizing my Linux desktop environment!
+<img align="right" alt="Coding GIF" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<br clear="right"/>
+- 🔭 Working on **Java backend development** and **database optimization**
+- 🌱 Exploring **Spring Framework** and **advanced MySQL**
+- 🎯 Passionate about **clean architecture** and **performance optimization**
+- ⚡ Expert in **Zsh**, **Hyprland**, and **Linux customization**
+- 🎨 Love creating **aesthetic desktop environments**
 
----
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Stack**
+## 🛠️ Technical Skills
 
-<details>
-<summary><b>🖥️ Languages</b></summary>
-<br>
+<div align="center">
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Bash Script](https://img.shields.io/badge/Bash%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</details>
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<details>
-<summary><b>🌐 Web Development</b></summary>
-<br>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br>
-
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🖥️ Operating Systems & Desktop Environment</b></summary>
-<br>
-
+### Operating Systems
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-</details>
-
----
-
-## <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="35"> **Certifications**
-
-<div align="center">
-
-| 🏆 **Certification** | 📅 **Date** | 🆔 **Credential ID** | 🔗 **Link** |
-|:---:|:---:|:---:|:---:|
-| **Google Crash Course on Python** | April 23, 2024 | CTHXMTAKAFKT | [View Certificate](https://www.coursera.org/account/accomplishments/verify/CTHXMTAKAFKT) |
-| **HackerRank SQL (Basic) Certificate** | June 24, 2024 | 36b2cd5d4dfc | [View Certificate](https://www.hackerrank.com/certificates/36b2cd5d4dfc) |
-| **HackerRank CSS (Basic) Certificate** | December 8, 2024 | fb11cbbd3c44 | [View Certificate](https://www.hackerrank.com/certificates/fb11cbbd3c44) |
-
+![XFCE](https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Stats**
+## 🏆 Certifications
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sattwik742&show_icons=true&count_private=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9&bg_color=0d1117" alt="Sattwik's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattwik742&layout=compact&hide_border=true&title_color=38B2AC&text_color=c9d1d9&bg_color=0d1117" />
-</div>
 
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Latest Activity**
-
-<!--START_SECTION:activity-->
-
-<div align="center">
-  
-[![Sattwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sattwik742&theme=github-compact&hide_border=true&color=38B2AC&line=4FD1C7&point=FFFFFF)](https://github.com/sattwik742)
+| Certification | Issuer | Date | Credential ID | Status |
+|:---|:---:|:---:|:---:|:---:|
+| **Google Crash Course on Python** | Google/Coursera | Apr 2024 | `CTHXMTAKAFKT` | [![Verify](https://img.shields.io/badge/Verify-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/CTHXMTAKAFKT) |
+| **HackerRank SQL (Basic)** | HackerRank | Jun 2024 | `36b2cd5d4dfc` | [![Verify](https://img.shields.io/badge/Verify-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/36b2cd5d4dfc) |
+| **HackerRank CSS (Basic)** | HackerRank | Dec 2024 | `fb11cbbd3c44` | [![Verify](https://img.shields.io/badge/Verify-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/fb11cbbd3c44) |
 
 </div>
 
 ---
 
-## 🏆 **Top Contributed Repositories**
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sattwik742&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributions" />
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Connect with Me**
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sattwik211@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sattwik742)
+<table>
+<tr>
+<td width="50%">
 
-</div>
+### 📈 Overall Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sattwik742&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=8)](https://github.com/sattwik742)
 
----
+</td>
+<td width="50%">
 
-## 🎯 **Current Goals**
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=sattwik742&theme=dark&hide_border=true&border_radius=8&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
-- 🚀 Master **Java Spring Framework**
-- 📚 Deep dive into **Database Design** and **MySQL Optimization**
-- 🌟 Contribute to **Open Source Projects**
-- 💼 Build a portfolio of **Production-Ready Applications**
-- 🎨 Perfect my **Linux Desktop Rice**
+</td>
+</tr>
+</table>
 
----
+### 📋 Language Distribution
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sattwik742&layout=compact&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=8&langs_count=8)](https://github.com/sattwik742)
 
-## 💡 **Fun Projects & Interests**
-
-<div align="center">
-
-| 🖥️ **Linux Ricing** | 🔧 **Shell Scripting** | 🎮 **Terminal Tools** |
-|:---:|:---:|:---:|
-| Custom XFCE setups | Automation scripts | Productivity enhancers |
-| Hyprland configs | System utilities | CLI applications |
+### 🎯 Contribution Activity
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sattwik742&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&border_radius=8)](https://github.com/sattwik742)
 
 </div>
 
 ---
 
-## 👀 **Profile Views & Support**
+## 🎯 Current Focus & Goals
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sattwik742&style=for-the-badge&color=38B2AC)
+<table>
+<tr>
+<td width="50%" align="left">
 
-### 🌟 **If you find my work interesting, give it a star!**
+### 🎓 Learning Path
+- **Java Spring Framework** - Backend development
+- **MySQL Optimization** - Database performance
+- **System Design** - Scalable architectures
+- **DevOps Tools** - CI/CD & deployment
 
-[![GitHub followers](https://img.shields.io/github/followers/sattwik742?label=Follow&style=social)](https://github.com/sattwik742)
+</td>
+<td width="50%" align="left">
+
+### 🚀 Project Goals
+- **Open Source Contributions** - Community involvement
+- **Portfolio Development** - Production-ready apps
+- **Linux Desktop Ricing** - Aesthetic customizations
+- **Developer Tools** - Productivity enhancements
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Areas of Expertise
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🖥️ **Linux Ricing**
+![Desktop](https://img.shields.io/badge/Desktop-Customization-FF6B6B?style=flat-square)
+
+- Custom XFCE configurations
+- Hyprland window manager setups
+- Aesthetic & functional designs
+- Performance optimizations
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ **Shell Scripting**
+![Automation](https://img.shields.io/badge/Shell-Automation-4ECDC4?style=flat-square)
+
+- System automation scripts
+- Workflow optimization tools
+- Custom utility development
+- Process streamlining
+
+</td>
+<td align="center" width="34%">
+
+### 🔧 **Terminal Tools**
+![CLI](https://img.shields.io/badge/CLI-Development-45B7D1?style=flat-square)
+
+- Command-line applications
+- Developer productivity tools
+- Terminal workflow enhancement
+- Custom tool development
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📞 Connect With Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 📧 Email
+[![Gmail](https://img.shields.io/badge/sattwik211@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sattwik211@gmail.com)
+
+</td>
+<td align="center">
+
+### 🐙 GitHub
+[![GitHub](https://img.shields.io/badge/sattwik742-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sattwik742)
+
+</td>
+</tr>
+</table>
+
+### 🤝 Open for Collaboration
+- 💡 **Open Source Projects** - Contributing to the community
+- 🚀 **Innovative Ideas** - Building something impactful
+- 📚 **Knowledge Sharing** - Learning together
+- 🎯 **Professional Opportunities** - Career development
+
+</div>
+
+---
+
+## 💭 Philosophy & Inspiration
+
+<div align="center">
+
+> ### *"First, solve the problem. Then, write the code."*
+> **– John Johnson**
+
+> ### *"Code is like humor. When you have to explain it, it's bad."*
+> **– Cory House**
+
+> ### *"The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly."*
+> **– Donald Knuth**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF" />
-</div>
 
-<div align="center">
-  
-### 💫 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+### 🌟 Thank You for Visiting!
 
-</div>
+*If you find my work interesting, consider giving it a ⭐ star!*
 
----
+**Let's build amazing things together!** 🚀
 
-<div align="center">
-
-**Happy Coding!** 🚀✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=FFFFFF" />
 
 </div>
