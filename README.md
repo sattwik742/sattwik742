@@ -21,8 +21,7 @@
 
 <img align="right" alt="Coding GIF" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 Working on **Java backend development** and **database optimization**
-- 🌱 Exploring **Spring Framework** and **advanced MySQL**
+- 🔭 Learning **Java SE** and **MySQl** database.
 - 🎯 Passionate about **clean architecture** and **performance optimization**
 - ⚡ Expert in **Zsh**, **Hyprland**, and **Linux customization**
 - 🎨 Love creating **aesthetic desktop environments**
