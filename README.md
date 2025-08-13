@@ -205,12 +205,6 @@
 > ### *"First, solve the problem. Then, write the code."*
 > **– John Johnson**
 
-> ### *"Code is like humor. When you have to explain it, it's bad."*
-> **– Cory House**
-
-> ### *"The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly."*
-> **– Donald Knuth**
-
 </div>
 
 ---
