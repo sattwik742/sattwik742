@@ -20,7 +20,7 @@
   <h2>🌟 About Me</h2>
 </div>
 
-<img align="right" alt="Coding Animation" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 10px; margin: 20px;" />
+<img align="right" alt="Coding Animation" width="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 10px; margin: 20px;" />
 
 <div style="padding: 20px;">
 
