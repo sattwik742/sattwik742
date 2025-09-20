@@ -24,15 +24,6 @@
 
 <div style="padding: 20px;">
 
-```yaml
-name: "Sattwik Sinha Mahapatra"
-role: "Software Developer & Linux Enthusiast"
-location: "India"
-languages: ["Java", "Lua", "Bash", "HTML", "CSS"]
-current_focus: "Java SE & MySQL Database Systems"
-passion: ["Clean Architecture", "Performance Optimization", "Open Source"]
-expertise: ["Linux Customization", "Terminal Productivity", "System Administration"]
-```
 
 - 🔭 **Currently Learning:** Advanced Java SE concepts and MySQL optimization
 - 🎯 **Focus Areas:** Clean code architecture and system performance
