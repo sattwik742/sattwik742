@@ -33,7 +33,6 @@
 
 </div>
 
----
 
 <div align="center">
   <h2>🛠️ Technology Arsenal</h2>
