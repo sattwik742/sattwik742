@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Hyprland-00D9FF?style=for-the-badge&logoColor=white" />
 
 ### 📊 Databases  
-<img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,sql&theme=dark" />
 
 </div>
 
