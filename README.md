@@ -101,9 +101,6 @@
 
 ### 🌟 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
-<div style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.demolab.com">font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=40&lines=If+you+like+my+work,+give+it+a+⭐;Let's+build+amazing+things+together!+🚀;Always+open+to+new+ideas+and+collaborations!" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,14,8&height=150&section=footer&text=Happy%20Coding!&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=40" />
 
