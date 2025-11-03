@@ -53,7 +53,7 @@
 
 ---
 
-## 🏆 Professional Certifications
+## 🏆 Certifications
 
 <div align="center">
 
