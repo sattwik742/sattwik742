@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding Animation" width="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 10px; margin: 20px;" />
 
-- 🔭 **Currently Learning:** JAVA Basics & MySQL
+- 🔭 **Currently Learning:** Learning C Basics & Data Structures
 - 🎯 **Focus Areas:** Clean code architecture & system performance  
 - ⚡ **Specialties:** Zsh customization, Hyprland setups, Linux ricing  
 - 🎨 **Creative Side:** Aesthetic, functional desktop environments  
