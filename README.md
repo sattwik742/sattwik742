@@ -26,7 +26,7 @@
 - 🎨 **Creative Side:** Aesthetic, functional desktop environments  
 - 🌱 **Mindset:** Continuous learning & innovation  
 
----
+
 
 ## 🛠️ Technology Arsenal
 
