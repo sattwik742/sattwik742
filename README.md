@@ -33,7 +33,7 @@
 <div align="center">
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=c,lua,bash,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c" />
 
 ### 🎨 Frontend  
 <img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
