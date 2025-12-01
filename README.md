@@ -62,23 +62,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sattwik742&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10&card_width=400" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=sattwik742&theme=dark&hide_border=true&border_radius=10&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattwik742&layout=compact&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10&langs_count=10&card_width=500" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sattwik742&custom_title=Annual%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&border_radius=10" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
