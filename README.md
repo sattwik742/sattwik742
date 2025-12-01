@@ -46,9 +46,6 @@
 <img src="https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=white" />
 <img src="https://img.shields.io/badge/Hyprland-00D9FF?style=for-the-badge&logoColor=white" />
 
-### 📊 Databases  
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
 </div>
 
 ---
