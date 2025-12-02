@@ -29,7 +29,6 @@
 - 🌱 **Mindset:** Always learning, always improving
 - 💡 **Goal:** Contributing to open-source & building impactful projects
 
----
 
 ## 🛠️ Technology Arsenal
 
