@@ -22,9 +22,8 @@
 
 
 
-- 🔭 **Currently Learning:** Mastering C fundamentals & Data Structures
+- 🔭 **Currently Learning:** Mastering programming fundamentals & DSA
 - 🎯 **Focus Areas:** Writing clean, efficient, and maintainable code
-- ⚡ **Specialties:** Zsh customization, Hyprland setups, Linux ricing
 - 🎨 **Creative Side:** Building aesthetic, functional desktop environments
 - 🌱 **Mindset:** Always learning, always improving
 - 💡 **Goal:** Contributing to open-source & building impactful projects
