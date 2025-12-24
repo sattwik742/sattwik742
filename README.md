@@ -53,9 +53,6 @@
 
 </div>
 
----
-
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
