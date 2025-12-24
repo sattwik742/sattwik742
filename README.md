@@ -22,7 +22,7 @@
 
 
 
-- 🔭 **Currently Learning:** AI Foundations OCI
+- 🔭 **Currently Learning:** AI Foundations OCI, Java Basics, Algorithms
 - 🎯 **Focus Areas:** Writing clean, efficient, and maintainable code
 - 🎨 **Creative Side:** Building aesthetic, functional desktop environments
 - 🌱 **Mindset:** Always learning, always improving
