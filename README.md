@@ -22,7 +22,7 @@
 
 
 
-- 🔭 **Currently Learning:** Mastering programming fundamentals & DSA
+- 🔭 **Currently Learning:** AI Fundamentals OCI
 - 🎯 **Focus Areas:** Writing clean, efficient, and maintainable code
 - 🎨 **Creative Side:** Building aesthetic, functional desktop environments
 - 🌱 **Mindset:** Always learning, always improving
