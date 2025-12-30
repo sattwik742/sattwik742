@@ -39,21 +39,17 @@
 ```typescript
 const developer = {
   name: "Sattwik Sinha Mahapatra",
-  role: "Full Stack Web Developer",
-  location: "Bhātpāra, West Bengal, India",
-  status: "Actively seeking opportunities 🔥",
+  location: "Kolkata, West Bengal, India"
   
   expertise: {
-    frontend: ["React", "JavaScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "REST APIs"],
-    database: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools: ["Git", "Postman", "VS Code"]
+    frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+    tools: ["Git", "VS Code"]
   },
   
   currentlyLearning: [
-    "Advanced React Patterns",
-    "System Design",
-    "Cloud Technologies (AWS/Azure)"
+    "Node Js",
+    "MongoDB",
+    "Postman"
   ],
   
   funFact: "I debug with console.log() 😅"
