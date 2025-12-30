@@ -289,51 +289,12 @@ const developer = {
 <br><br>
 <sub>Quickly adapting to new technologies, frameworks, and development methodologies</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/user-group-man-man.png" width="80"/>
-<br><br>
-<b>Team Player</b>
-<br><br>
-<sub>Collaborative mindset with clear communication and positive team dynamics</sub>
-</td>
 </tr>
 </table>
 
 </div>
 
 <br>
-
-<div align="center">
-
-### 🎯 Development Philosophy
-
-```javascript
-const myApproach = {
-  codeQuality: {
-    principles: ["DRY", "KISS", "Clean Code"],
-    focus: "Readable, maintainable, and scalable solutions"
-  },
-  
-  learning: {
-    style: "Hands-on project-based learning",
-    commitment: "Continuously improving and staying updated"
-  },
-  
-  problemSolving: {
-    method: "Break down complex problems into manageable steps",
-    tools: "Research, documentation, and community resources"
-  },
-  
-  collaboration: {
-    communication: "Clear, concise, and proactive",
-    teamwork: "Open to feedback and eager to help others"
-  }
-};
-
-console.log("Ready to contribute and grow! 🚀");
-```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
