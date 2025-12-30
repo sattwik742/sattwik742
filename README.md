@@ -95,7 +95,7 @@ const developer = {
 
 ### 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
 </p>
 
 <table>
@@ -103,7 +103,7 @@ const developer = {
 <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-<td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
+<!-- <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td> -->
 <td align="center"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
 </tr>
 </table>
@@ -112,16 +112,16 @@ const developer = {
 
 ### ⚙️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></td>
+<!-- <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td> -->
+<!-- <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></td> -->
+<!-- <td align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></td> -->
 </tr>
 </table>
 
@@ -129,15 +129,15 @@ const developer = {
 
 ### 🗄️ Databases & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,vercel&theme=dark" />
 </p>
 
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></td>
+<!-- <td align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></td> -->
+<!-- <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></td> -->
+<!-- <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></td> -->
 </tr>
 </table>
 
@@ -145,7 +145,7 @@ const developer = {
 
 ### 🔧 Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
 </p>
 
 <table>
@@ -154,7 +154,7 @@ const developer = {
 <td align="center"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
+<!-- <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td> -->
 </tr>
 </table>
 
