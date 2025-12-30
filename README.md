@@ -62,7 +62,6 @@ const developer = {
 
 <img src="https://img.shields.io/badge/Clean_Code-00D9FF?style=for-the-badge&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/Problem_Solving-58A6FF?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Team_Player-A371F7?style=for-the-badge&logo=handshake&logoColor=white" />
 <img src="https://img.shields.io/badge/Quick_Learner-FFD700?style=for-the-badge&logo=rocket&logoColor=white" />
 
 </td>
