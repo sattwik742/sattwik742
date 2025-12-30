@@ -69,7 +69,6 @@ const developer = {
 <img src="https://img.shields.io/badge/Clean_Code-00D9FF?style=for-the-badge&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/Problem_Solving-58A6FF?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Quick_Learner-FFD700?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Team_Player-A371F7?style=for-the-badge&logo=handshake&logoColor=white" />
 
 </td>
 <td width="45%" valign="top">
@@ -323,7 +322,7 @@ const developer = {
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/linuxricer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" height="40"/>
 <br><br>
 <b>Let's Connect</b>
@@ -361,18 +360,10 @@ const developer = {
 
 <div align="center">
 
-### 💭 Daily Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote"/>
-
-<br><br>
-
 ### 🌟 Personal Favorite Quote
 
 > *"First, solve the problem. Then, write the code."*  
 > **— John Johnson**
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%AD%90+Star+my+repos+if+you+find+them+interesting!;%F0%9F%91%A5+Always+open+to+new+collaborations;%F0%9F%93%9A+Learning+and+growing+every+single+day;%F0%9F%99%8F+Thanks+for+visiting+my+profile!" alt="Footer Typing"/>
 
