@@ -1,29 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:58A6FF,100:A371F7&height=250&section=header&text=Sattwik%20Sinha%20Mahapatra&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%E2%9A%A1%20Crafting%20Digital%20Experiences&descSize=20&descAlign=50&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,50:4B8BBE,100:306998&height=250&section=header&text=Sattwik%20Sinha%20Mahapatra&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%F0%9F%90%8D%20Building%20Scalable%20Solutions&descSize=20&descAlign=50&descAlignY=58" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%9A%80+Building+Scalable+Web+Applications;%E2%9A%A1+MERN+Stack+%7C+RESTful+APIs+%7C+Cloud;%F0%9F%8E%A8+Beautiful+UI+%2B+Powerful+Backend;%F0%9F%92%A1+Turning+Coffee+into+Code;%F0%9F%8C%9F+Open+to+Exciting+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=FFD43B&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%90%8D+Python+Developer+%7C+Django+%7C+Flask;%F0%9F%9A%80+Building+Robust+Web+Applications;%F0%9F%93%8A+Data-Driven+Solutions+%2B+Modern+UI;%E2%98%95+Transforming+Ideas+into+Code;%F0%9F%8C%9F+Open+to+Exciting+Opportunities!)](https://git.io/typing-svg)
 
 <br>
 
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img src="https://komarev.com/ghpvc/?username=sattwik742&style=for-the-badge&color=00D9FF&labelColor=1a1b27" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sattwik742&style=for-the-badge&color=FFD43B&labelColor=1a1b27" alt="Profile Views"/>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/github/followers/sattwik742?label=Followers&style=for-the-badge&color=58A6FF&labelColor=1a1b27" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/sattwik742?label=Followers&style=for-the-badge&color=4B8BBE&labelColor=1a1b27" alt="Followers"/>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/Status-Available-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1b27" alt="Status"/>
+<img src="https://img.shields.io/badge/Status-Available-FFD43B?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1b27" alt="Status"/>
 </td>
 </tr>
 </table>
 
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -35,38 +34,44 @@
 
 ## 🎯 About Me
 
-```typescript
-const developer = {
-  name: "Sattwik Sinha Mahapatra",
-  location: "Kolkata, West Bengal, India",
-  role: "Full Stack Web Developer",
-  status: "Actively seeking opportunities 🔥",
-  
-  expertise: {
-    frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-    tools: ["Git", "GitHub", "VS Code", "Postman", "npm"]
-  },
-  
-  currentlyLearning: [
-    "Advanced JavaScript & ES6+",
-    "RESTful API Development",
-    "Database Design & Optimization",
-    "Cloud Deployment Strategies"
-  ],
-  
-  approach: "Clean code, best practices, continuous learning",
-  funFact: "I debug with console.log() 😅"
-};
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Sattwik Sinha Mahapatra"
+        self.location = "Kolkata, West Bengal, India"
+        self.role = "Python Full Stack Developer"
+        self.status = "Actively seeking opportunities 🔥"
+        
+        self.expertise = {
+            "backend": ["Python", "Django", "Flask", "FastAPI"],
+            "frontend": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+            "database": ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
+            "tools": ["Git", "Docker", "VS Code", "Postman", "pip"]
+        }
+        
+        self.currently_learning = [
+            "Advanced Django & Django REST Framework",
+            "Microservices Architecture",
+            "Database Optimization & Indexing",
+            "AWS/Cloud Deployment",
+            "Celery & Redis for Task Queues"
+        ]
+        
+        self.approach = "Pythonic code, PEP 8 standards, test-driven development"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing with Python 🐍")
+
+me = Developer()
+me.say_hi()
 ```
 
 <br>
 
 ### 🌟 Core Strengths
 
-<img src="https://img.shields.io/badge/Clean_Code-00D9FF?style=for-the-badge&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem_Solving-58A6FF?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Pythonic_Code-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
+<img src="https://img.shields.io/badge/Problem_Solving-4B8BBE?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Quick_Learner-FFD700?style=for-the-badge&logo=rocket&logoColor=white" />
 
 </td>
@@ -83,23 +88,23 @@ const developer = {
 <table>
 <tr>
 <td>🎯</td>
-<td><b>Focus:</b> Building full-stack web applications</td>
+<td><b>Focus:</b> Python-based full-stack applications</td>
 </tr>
 <tr>
 <td>📚</td>
-<td><b>Learning:</b> MERN Stack & Backend Technologies</td>
+<td><b>Learning:</b> Django, Flask & RESTful APIs</td>
 </tr>
 <tr>
 <td>💼</td>
-<td><b>Open to:</b> Entry-level developer positions</td>
+<td><b>Open to:</b> Python developer positions</td>
 </tr>
 <tr>
 <td>🌱</td>
-<td><b>Mindset:</b> Growth-oriented & adaptable</td>
+<td><b>Mindset:</b> Growth-oriented & collaborative</td>
 </tr>
 <tr>
 <td>⚡</td>
-<td><b>Goal:</b> Contribute to impactful projects</td>
+<td><b>Goal:</b> Build scalable, maintainable systems</td>
 </tr>
 </table>
 
@@ -115,9 +120,37 @@ const developer = {
 
 <div align="center">
 
+### 🐍 Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&theme=dark" />
+</p>
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br><sub>Python</sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<br><sub>Django</sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<br><sub>Flask</sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br><sub>FastAPI</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
 ### 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 </p>
 
 <table>
@@ -135,48 +168,36 @@ const developer = {
 <br><sub>JavaScript</sub>
 </td>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<br><sub>Tailwind CSS</sub>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br><sub>Bootstrap</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-### ⚙️ Backend Development
+### 🗄️ Database & ORM
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&theme=dark" />
 </p>
 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<br><sub>Node.js</sub>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br><sub>PostgreSQL</sub>
 </td>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-<br><sub>Express.js</sub>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br><sub>MySQL</sub>
 </td>
-</tr>
-</table>
-
-<br>
-
-### 🗄️ Database & Deployment
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,vercel&theme=dark" />
-</p>
-
-<table>
-<tr>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<br><sub>SQLite</sub>
+</td>
 <td align="center" width="96">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <br><sub>MongoDB</sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<br><sub>Vercel</sub>
 </td>
 </tr>
 </table>
@@ -185,7 +206,7 @@ const developer = {
 
 ### 🔧 Development Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" />
 </p>
 
 <table>
@@ -203,12 +224,12 @@ const developer = {
 <br><sub>VS Code</sub>
 </td>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<br><sub>Postman</sub>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br><sub>Docker</sub>
 </td>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<br><sub>npm</sub>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<br><sub>Postman</sub>
 </td>
 </tr>
 </table>
@@ -267,25 +288,25 @@ const developer = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/python.png" width="80"/>
 <br><br>
-<b>Clean Code</b>
+<b>Pythonic Code</b>
 <br><br>
-<sub>Writing maintainable, readable code following industry best practices and conventions</sub>
+<sub>Writing clean, efficient Python following PEP 8 standards and best practices</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/puzzle.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="80"/>
 <br><br>
 <b>Problem Solver</b>
 <br><br>
-<sub>Strong analytical thinking and systematic approach to debugging complex issues</sub>
+<sub>Strong algorithmic thinking and debugging skills for complex challenges</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
 <br><br>
 <b>Fast Learner</b>
 <br><br>
-<sub>Quickly adapting to new technologies, frameworks, and development methodologies</sub>
+<sub>Quickly mastering new Python frameworks and development patterns</sub>
 </td>
 </tr>
 </table>
@@ -333,20 +354,20 @@ const developer = {
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=%F0%9F%92%BC+Actively+Seeking+Full-Time+Web+Developer+Roles;%F0%9F%93%88+Ready+to+Learn%2C+Contribute+%26+Grow;%F0%9F%A4+Open+to+Collaborations+%26+Exciting+Projects;%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=%F0%9F%92%BC+Actively+Seeking+Python+Developer+Roles;%F0%9F%93%88+Ready+to+Build+Scalable+Applications;%F0%9F%A4+Open+to+Collaborations+%26+Open+Source;%F0%9F%90%8D+Let's+Code+Something+Amazing+in+Python!)](https://git.io/typing-svg)
 
 <br>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Status-Available_for_Hire-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1b27" height="35"/>
+<img src="https://img.shields.io/badge/Status-Available_for_Hire-FFD43B?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1b27" height="35"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Response-Within_24_Hours-58A6FF?style=for-the-badge&logo=clock&logoColor=white&labelColor=1a1b27" height="35"/>
+<img src="https://img.shields.io/badge/Response-Within_24_Hours-4B8BBE?style=for-the-badge&logo=clock&logoColor=white&labelColor=1a1b27" height="35"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Work_Mode-Remote_Friendly-A371F7?style=for-the-badge&logo=wifi&logoColor=white&labelColor=1a1b27" height="35"/>
+<img src="https://img.shields.io/badge/Work_Mode-Remote_Friendly-306998?style=for-the-badge&logo=wifi&logoColor=white&labelColor=1a1b27" height="35"/>
 </td>
 </tr>
 </table>
@@ -361,23 +382,23 @@ const developer = {
 
 ### 🌟 Personal Favorite Quote
 
-> *"First, solve the problem. Then, write the code."*  
-> **— John Johnson**
+> *"Simple is better than complex. Complex is better than complicated."*  
+> **— The Zen of Python**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%AD%90+Star+my+repos+if+you+find+them+interesting!;%F0%9F%91%A5+Always+open+to+new+collaborations;%F0%9F%93%9A+Learning+and+growing+every+single+day;%F0%9F%99%8F+Thanks+for+visiting+my+profile!" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FFD43B&center=true&vCenter=true&width=700&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%90%8D+Python+enthusiast+and+lifelong+learner;%F0%9F%93%9A+Growing+my+skills+every+single+day;%F0%9F%99%8F+Thanks+for+visiting+my+profile!" alt="Footer Typing"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:58A6FF,100:A371F7&height=150&section=footer&text=Let's%20Build%20the%20Future%20Together!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,50:4B8BBE,100:306998&height=150&section=footer&text=Let's%20Build%20with%20Python!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=40" />
 </div>
 
 <div align="center">
 
-**✨ Crafted with 💙 and ☕ by Sattwik Sinha Mahapatra**
+**✨ Crafted with 🐍 and ☕ by Sattwik Sinha Mahapatra**
 
-<sub>🔔 Open to opportunities | 🚀 Ready to make an impact | 💼 Let's create something amazing!</sub>
+<sub>🔔 Open to opportunities | 🚀 Ready to make an impact | 💼 Let's create something amazing with Python!</sub>
 
 </div>
