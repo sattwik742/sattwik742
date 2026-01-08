@@ -43,15 +43,14 @@ class Developer:
         self.status = "Actively seeking opportunities 🔥"
         
         self.expertise = {
-            "backend": ["Python", "Django", "Flask", "FastAPI"],
-            "frontend": ["HTML", "CSS", "JavaScript", "Bootstrap"],
-            "database": ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
+            "backend": ["Python", "Django", "FastAPI"],
+            "frontend": ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+            "database": ["PostgreSQL", "MongoDB"],
             "tools": ["Git", "Docker", "VS Code", "Postman", "pip"]
         }
         
         self.currently_learning = [
             "Advanced Django & Django REST Framework",
-            "Microservices Architecture",
             "Database Optimization & Indexing",
             "AWS/Cloud Deployment",
             "Celery & Redis for Task Queues"
@@ -122,7 +121,7 @@ me.say_hi()
 
 ### 🐍 Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
 </p>
 
 <table>
@@ -134,11 +133,6 @@ me.say_hi()
 <td align="center" width="96">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <br><sub>Django</sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<br><sub>Flask</sub>
-</td>
 <td align="center" width="96">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <br><sub>FastAPI</sub>
@@ -150,7 +144,7 @@ me.say_hi()
 
 ### 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
 <table>
@@ -167,10 +161,6 @@ me.say_hi()
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <br><sub>JavaScript</sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<br><sub>Bootstrap</sub>
-</td>
 </tr>
 </table>
 
@@ -178,7 +168,7 @@ me.say_hi()
 
 ### 🗄️ Database & ORM
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark" />
 </p>
 
 <table>
@@ -186,14 +176,6 @@ me.say_hi()
 <td align="center" width="96">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br><sub>PostgreSQL</sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<br><sub>MySQL</sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<br><sub>SQLite</sub>
 </td>
 <td align="center" width="96">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
