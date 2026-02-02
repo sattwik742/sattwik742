@@ -44,24 +44,13 @@ const developer = {
     expertise: {
         markup: ["HTML5", "Semantic HTML"],
         styling: ["CSS3", "Tailwind CSS", "Responsive Design"],
-        scripting: ["JavaScript (ES6+)", "DOM Manipulation"],
-        design: ["Mobile-First Design", "Cross-Browser Compatibility"],
         tools: ["Git", "GitHub", "VS Code", "Chrome DevTools"]
     },
     
     currentlyLearning: [
+        "JavaScript Fundamentals",
         "React.js & Component Architecture",
-        "TypeScript Fundamentals",
         "Advanced CSS Animations & Transitions",
-        "Web Performance Optimization",
-        "Modern Frontend Build Tools"
-    ],
-    
-    designPrinciples: [
-        "Clean, semantic HTML structure",
-        "BEM methodology for CSS",
-        "Accessibility-first approach (WCAG)",
-        "Progressive enhancement"
     ],
     
     sayHi() {
