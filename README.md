@@ -6,9 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%92%BB+Frontend+Developer+%7C+HTML+%7C+CSS+%7C+JavaScript;%F0%9F%8E%A8+Building+Responsive+Web+Interfaces;%F0%9F%9A%80+Creating+Interactive+User+Experiences;%E2%9C%A8+Pixel-Perfect+%26+Mobile-First+Design;%F0%9F%8C%9F+Ready+to+Launch+My+Frontend+Career!)](https://git.io/typing-svg)
 
-<br>
+</div>
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 <td align="center" width="200">
 <img src="https://komarev.com/ghpvc/?username=sattwik742&style=for-the-badge&color=61DAFB&labelColor=1a1b27" alt="Profile Views"/>
@@ -26,13 +28,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+## 🎯 About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
-
-## 🎯 About Me
 
 ```javascript
 const developer = {
@@ -44,13 +44,14 @@ const developer = {
     expertise: {
         markup: ["HTML5", "Semantic HTML"],
         styling: ["CSS3", "Tailwind CSS", "Responsive Design"],
+        programming: ["JavaScript ES6+"],
         tools: ["Git", "GitHub", "VS Code", "Chrome DevTools"]
     },
     
     currentlyLearning: [
         "JavaScript Fundamentals",
         "React.js & Component Architecture",
-        "Advanced CSS Animations & Transitions",
+        "Advanced CSS Animations & Transitions"
     ],
     
     sayHi() {
@@ -61,8 +62,6 @@ const developer = {
 developer.sayHi();
 ```
 
-<br>
-
 ### 🌟 Core Strengths
 
 <img src="https://img.shields.io/badge/Responsive_Design-61DAFB?style=for-the-badge&logo=css3&logoColor=white" />
@@ -72,11 +71,7 @@ developer.sayHi();
 </td>
 <td width="45%" valign="top">
 
-<br><br>
-
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding"/>
-
-<br><br>
 
 ### 🎓 Quick Facts
 
@@ -143,7 +138,6 @@ developer.sayHi();
 </td>
 </tr>
 </table>
-
 
 ### 🔧 Development Tools
 
@@ -234,8 +228,6 @@ developer.sayHi();
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -272,13 +264,9 @@ developer.sayHi();
 </tr>
 </table>
 
-<br><br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=%F0%9F%92%BC+Open+to+Frontend+Developer+Opportunities;%F0%9F%8E%A8+Ready+to+Create+Beautiful+Interfaces;%F0%9F%9A%80+Eager+to+Learn+%26+Grow+with+Your+Team;%F0%9F%8C%9F+Let's+Build+Amazing+Web+Experiences!)](https://git.io/typing-svg)
 
-<br>
-
-<table align="center">
+<table>
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/💼_Fresher-Seeking_Opportunities-61DAFB?style=for-the-badge&labelColor=1a1b27" height="40"/>
@@ -294,32 +282,20 @@ developer.sayHi();
 
 </div>
 
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+## 💭 My Development Philosophy
 
 <div align="center">
-
-### 🌟 Favorite Quote
 
 > *"First, solve the problem. Then, write the code."*  
 > **— John Johnson**
 
-<br>
-
-### 💭 My Development Philosophy
-
 > *"Great frontend development is invisible. Users should experience seamless interactions without noticing the complexity behind them. Every pixel matters, every interaction counts, and every user deserves an excellent experience."*
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=%E2%AD%90+Star+my+repositories+if+you+find+them+useful!;%F0%9F%92%BB+Passionate+about+creating+beautiful+interfaces;%F0%9F%93%9A+Learning+something+new+every+single+day;%F0%9F%99%8F+Thank+you+for+visiting+my+profile!" alt="Footer Typing"/>
 
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34F26,50:F7DF1E,100:61DAFB&height=150&section=footer&text=Let's%20Create%20Together!&fontSize=35&fontColor=FFFFFF&animation=twinkling&fontAlign=50&fontAlignY=40" />
@@ -330,8 +306,6 @@ developer.sayHi();
 **✨ Crafted with 💻 and passion by Sattwik Sinha Mahapatra**
 
 <sub>🔔 Available for frontend developer positions | 🚀 Ready to contribute and learn | 💼 Let's build amazing web experiences!</sub>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=sattwik742&label=Profile%20Views&color=61DAFB&style=flat-square" alt="Profile Views" />
 
