@@ -315,41 +315,63 @@ developer.sayHi();
 
 <br>
 
-## 🎯 What I Bring to Your Team
+## 🎨 Styling & UI Animations
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 💡 Technical Skills
-```
-✅ Solid foundation in HTML5, CSS3 & JavaScript
-✅ Modern CSS with Flexbox & Grid layouts
-✅ Responsive & mobile-first development
-✅ Cross-browser compatibility knowledge
-✅ Version control with Git & GitHub
-✅ Understanding of web accessibility (a11y)
-✅ Basic SEO principles & best practices
-✅ Chrome DevTools for debugging
-```
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/css3.png" width="80"/>
+<br><br>
+<b>Advanced CSS</b>
+<br><br>
+<sub>• Flexbox & Grid Mastery<br>• Custom Properties (CSS Variables)<br>• Modern Layout Techniques</sub>
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/animation.png" width="80"/>
+<br><br>
+<b>CSS Animations</b>
+<br><br>
+<sub>• Keyframe Animations<br>• Transitions & Transforms<br>• Smooth UI Interactions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/framework.png" width="80"/>
+<br><br>
+<b>CSS Frameworks</b>
+<br><br>
+<sub>• Tailwind CSS<br>• Utility-First Approach<br>• Rapid Prototyping</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/sorting.png" width="80"/>
+<br><br>
+<b>Responsive Design</b>
+<br><br>
+<sub>• Mobile-First Strategy<br>• Breakpoint Management<br>• Fluid Typography</sub>
+</td>
+</tr>
+</table>
 
-### 🌟 Soft Skills
-```
-✅ Strong attention to detail
-✅ Problem-solving mindset
-✅ Effective communication
-✅ Team collaboration & adaptability
-✅ Eager to learn & grow
-✅ Time management & organization
-✅ Receptive to feedback
-✅ Passionate about web development
-```
+<br>
 
+### ✨ Animation Capabilities
+
+<table>
+<tr>
+<td width="33%" align="center">
+<b>🎭 Micro-interactions</b>
+<br><br>
+<sub>Hover effects, button animations, loading states, and interactive feedback that enhance user engagement</sub>
+</td>
+<td width="33%" align="center">
+<b>🌊 Page Transitions</b>
+<br><br>
+<sub>Smooth scroll effects, fade-ins, slide animations, and parallax effects for dynamic experiences</sub>
+</td>
+<td width="33%" align="center">
+<b>⚡ Performance</b>
+<br><br>
+<sub>GPU-accelerated animations, optimized rendering, and 60fps smooth transitions using transform & opacity</sub>
 </td>
 </tr>
 </table>
@@ -417,25 +439,6 @@ developer.sayHi();
 </td>
 </tr>
 </table>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sattwik742&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=61DAFB&icon_color=F7DF1E&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sattwik742&theme=tokyonight&hide_border=true&background=1a1b27&stroke=61DAFB&ring=F7DF1E&fire=E34F26&currStreakLabel=61DAFB" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattwik742&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=61DAFB&text_color=ffffff" width="48%" />
 
 </div>
 
