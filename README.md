@@ -135,17 +135,17 @@ developer.sayHi();
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65"/>
 <br><b>HTML5</b>
 <br><sub>Semantic Markup</sub>
 </td>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65"/>
 <br><b>CSS3</b>
 <br><sub>Modern Styling</sub>
 </td>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65"/>
 <br><b>JavaScript</b>
 <br><sub>ES6+ Features</sub>
 </td>
@@ -168,7 +168,7 @@ developer.sayHi();
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65"/>
 <br><b>Git & GitHub</b>
 <br><sub>Version Control</sub>
 </td>
@@ -201,12 +201,12 @@ developer.sayHi();
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65"/>
 <br><b>React.js</b>
 <br><sub>Component Library</sub>
 </td>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="65"/>
 <br><b>TypeScript</b>
 <br><sub>Type Safety</sub>
 </td>
@@ -216,7 +216,7 @@ developer.sayHi();
 <br><sub>CSS Preprocessor</sub>
 </td>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="65"/>
 <br><b>Build Tools</b>
 <br><sub>Bundling & Optimization</sub>
 </td>
