@@ -42,8 +42,8 @@ const developer = {
     status: "Fresher | Ready to Make an Impact 🚀",
     
     expertise: {
-        markup: ["HTML5", "Semantic HTML"],
-        styling: ["CSS3", "Tailwind CSS", "Responsive Design"],
+        markup: ["HTML5"],
+        styling: ["CSS3", "Tailwind CSS"],
         programming: ["JavaScript ES6+"],
         tools: ["Git", "GitHub", "VS Code", "Chrome DevTools"]
     },
