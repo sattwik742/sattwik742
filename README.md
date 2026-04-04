@@ -169,38 +169,6 @@ developer.sayHi();
 </td>
 </tr>
 </table>
-
-### 📚 Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,typescript,sass,webpack&theme=dark" />
-</p>
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65"/>
-<br><b>React.js</b>
-<br><sub>Component Library</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="65"/>
-<br><b>TypeScript</b>
-<br><sub>Type Safety</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="65"/>
-<br><b>Sass/SCSS</b>
-<br><sub>CSS Preprocessor</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="65"/>
-<br><b>Build Tools</b>
-<br><sub>Bundling & Optimization</sub>
-</td>
-</tr>
-</table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
