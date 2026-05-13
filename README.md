@@ -4,12 +4,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%92%BB+Frontend+Developer+%7C+HTML+%7C+CSS+%7C+JavaScript;%F0%9F%8E%A8+Building+Responsive+Web+Interfaces;%F0%9F%9A%80+Creating+Interactive+User+Experiences;%E2%9C%A8+Pixel-Perfect+%26+Mobile-First+Design;%F0%9F%8C%9F+Ready+to+Launch+My+Frontend+Career!)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="200">
